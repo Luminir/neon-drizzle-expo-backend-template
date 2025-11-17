@@ -4,5 +4,5 @@ export const courses = pgTable("courses", {
     id: serial("id").primaryKey(),
     title:text("title").notNull(),
     subTitle: text("subTitle").notNull(),
-    imageSrc: text("image_src").notNull()
+    imageSrc: text("imageSrc").notNull()
 })

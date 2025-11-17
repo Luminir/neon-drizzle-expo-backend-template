@@ -78,3 +78,6 @@ https://orm.drizzle.team/docs/kit-overview
 | `npx drizzle-kit studio`   | Connects to your database and opens Drizzle Studio for convenient database browsing.                          |
 | `npx drizzle-kit check`    | Checks all generated migrations for race conditions or collisions.                                            |
 | `npx drizzle-kit up`       | Upgrades snapshots of previously generated migrations.                                                        |
+
+
+## 29:38'

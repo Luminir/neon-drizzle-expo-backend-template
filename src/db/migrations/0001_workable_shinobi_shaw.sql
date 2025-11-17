@@ -1,0 +1,1 @@
+ALTER TABLE "courses" RENAME COLUMN "image_src" TO "imageSrc";
